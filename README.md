@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Iqbal Alghifari</h1>
+
 # 💫 About Me:
 I'm a self-taught developer who began my journey in 2022, passionate about building and exploring new technologies. I love solving problems and continuously learning to improve my skills. Check out my projects and feel free to connect!
 
