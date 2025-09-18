@@ -4,6 +4,12 @@
 
 ###
 
+<div align="right">
+  <img height="284" src="https://res.cloudinary.com/dzdhs3n3g/image/upload/v1758217623/Adventure_A_of_A_Lifetime_1_nfenq8.png"  />
+</div>
+
+###
+
 <p align="left">I'm a self-taught developer who began my journey in 2022, passionate about building and exploring new technologies. I love solving problems and continuously learning to improve my skills. Check out my projects on my portfolio and feel free to connect!</p>
 
 ###
@@ -23,7 +29,7 @@
 
 ###
 
-<h3 align="left">💻 Tech Stacks :</h3>
+<h2 align="left">💻 Tech Stacks :</h2>
 
 ###
 
